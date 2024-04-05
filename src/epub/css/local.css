@@ -4,3 +4,8 @@
 header [epub|type~="epigraph"] cite{
 	font-variant: small-caps;
 }
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
