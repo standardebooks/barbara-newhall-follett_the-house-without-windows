@@ -57,3 +57,8 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+/* Dedication blockquote */
+#afterword blockquote{
+	font-family: monospace;
+}
