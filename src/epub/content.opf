@@ -27,36 +27,49 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The House Without Windows</dc:title>
+		<meta property="title-type" refines="#title">main</meta>
 		<meta property="file-as" refines="#title">House Without Windows, The</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:title id="subtitle">And Eepersip’s Life There</dc:title>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<meta property="file-as" refines="#subtitle">And Eepersip’s Life There</meta>
+		<dc:title id="fulltitle">The House Without Windows: And Eepersip’s Life There</dc:title>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="file-as" refines="#fulltitle">House Without Windows, The</meta>
+		<dc:subject id="subject-1">Fiction</dc:subject>
+		<dc:subject id="subject-2">Children's literature</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh85023780</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">Fiction</dc:description>
+		<meta property="term" refines="#subject-2">sh85001077</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>en-GB</dc:language>
+		<dc:language>en-US</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/The_House_Without_Windows</dc:source>
 		<dc:source>https://archive.org/details/the-house-without-windows-djvu/barbara-newhall-follett_the-house-without-windows</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_House_Without_Windows</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/barbara-newhall-follett_the-house-without-windows</meta>
 		<dc:creator id="author">Barbara Newhall Follett</dc:creator>
 		<meta property="file-as" refines="#author">Follett, Barbara Newhall</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Barbara_Newhall_Follett</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no2002061644</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<dc:creator id="author-aft">Roy Wilson Follett</dc:creator>
+		<meta property="file-as" refines="#author-aft">Follett, Roy Wilson</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author-aft">https://en.wikipedia.org/wiki/Wilson_Follett</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-aft">http://id.loc.gov/authorities/names/n80152815</meta>
+		<meta property="role" refines="#author-aft" scheme="marc:relators">aft</meta>
+		<meta property="role" refines="#author-aft" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">Jacob van Ruisdael</dc:contributor>
+		<meta property="file-as" refines="#artist">Ruisdael, Jacob van</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Jacob Isaackszoon van Ruisdael</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jacob_van_Ruisdael</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82062822</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Wikisource</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wikisource</meta>
