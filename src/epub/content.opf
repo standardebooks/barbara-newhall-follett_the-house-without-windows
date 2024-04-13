@@ -42,12 +42,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85001077</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">Young Eepersip wishes to live in a house without walls, doors and windows.</dc:description>
+		<dc:description id="description">Young Eepersip seeks a new home where she is not trapped by walls or windows.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A young girl named Eepersip lives with her parents in a house, but she feels trapped within it’s confines, so she leaves civilization and seeks the freedom and carefreeness of nature.&lt;/p&gt;
-			&lt;p&gt;She adapts completely to her new life, befriending wild animals and gathering all her food and clothing. Her restlessness makes her constantly seek new places to live, and she eventually leaves them all for a higher form of life in Nature.&lt;/p&gt;
-			&lt;p&gt;The author started writting the novel in 1923 at the age of 9; the first version of the text, however, was lost in a house fire, which led to the rewriting of the entire work, which was eventually published to critical success in 1927. During her lifetime she also published another novel, &lt;i&gt;The Voyage of the Norman D.&lt;/i&gt;&lt;/p&gt;
-			&lt;p&gt;During her childhood, her father left the family for another woman, which led &lt;a href="https://standardebooks.org/ebooks/barbara-newhall-follett"&gt;Barbara Newhall Follett&lt;/a&gt; and her mother to experience financial troubles. She eventually married a man named Nickerson Rogers, whose unfaithfulness led her to leave home at the age of 25, never to be seen again. Today, her literary work is overshadowed by the circumstances of her life.&lt;/p&gt;
+			&lt;p&gt;A young girl named Eepersip lives with her parents in a cottage, but she feels trapped within its confines, so she leaves civilization and seeks the freedom and carefreeness of nature.&lt;/p&gt;
+			&lt;p&gt;After leaving her parents, she founds a home in the outdoors, rejecting both the society of adults and the comforts of civilization; she initially is content to live in the meadow, but she grows restless and seeks a new place to live in both the sea and the mountain. In time she reaches a higher form of life.&lt;/p&gt;
+			&lt;p&gt;The author started writting the novel in 1923 at the age of 9; the first version of the text, however, was lost in a house fire, which led to the rewriting of the entire work, which was eventually published to critical success in 1927, when she was 12 years old. At the age of 25, marital problems led her to leave home, never to be seen again. Today, her literary work is overshadowed by the circumstances of her life.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/The_House_Without_Windows</dc:source>
