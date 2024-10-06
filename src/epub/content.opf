@@ -44,9 +44,9 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young woman seeks a new home where she is not trapped by walls or windows.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A young girl named Eepersip lives with her parents in a cottage, but she feels trapped within its confines, so she leaves civilization and seeks a free and carefree life in nature.&lt;/p&gt;
-			&lt;p&gt;After leaving her parents, she founds a home in the outdoors, rejecting both the society of adults and the comforts of civilization; she initially is content to live in the meadow, but she grows restless and seeks a new place to live in both the sea and the mountain. In time, she reaches a higher form of life.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/barbara-newhall-follett"&gt;Follett&lt;/a&gt; started writing the novel in 1923 at the age of 9, but the first draft was lost in a house fire, which led her to rewrite the entire work. It was eventually published to critical success in 1927, when she was just 12 years old.&lt;/p&gt;
+			&lt;p&gt;A young girl named Eepersip lives with her parents in a cottage, but she feels trapped within its confines, so she leaves home to live a freer life in the wild.&lt;/p&gt;
+			&lt;p&gt;After leaving her parents’ home, she establishes a life for herself outdoors, rejecting both the society of adults and the comforts of civilization. Initially, she is happy to live in a meadow near her family’s home, but over time she is tempted to seek out new natural environments to live in. Meanwhile, her parents attempt to locate their daughter and to bring her back home.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/barbara-newhall-follett"&gt;Follett&lt;/a&gt; started writing the novel in 1923 at the age of 8, but the first draft was lost in a house fire, which led her to rewrite the entire work. It was eventually published to critical success in 1927, when she was just 12 years old.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/The_House_Without_Windows</dc:source>
