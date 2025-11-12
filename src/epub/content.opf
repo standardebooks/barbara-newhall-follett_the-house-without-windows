@@ -60,14 +60,14 @@
 		<meta property="file-as" refines="#author">Follett, Barbara Newhall</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Barbara_Newhall_Follett</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no2002061644</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="contributor">Roy Wilson Follett</dc:contributor>
 		<meta property="file-as" refines="#contributor">Follett, Roy Wilson</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/Wilson_Follett</meta>
 		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/n80152815</meta>
-		<meta property="role" refines="#contributor" scheme="marc:relators">waw</meta>
 		<meta property="role" refines="#contributor" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#contributor" scheme="marc:relators">waw</meta>
 		<dc:contributor id="artist">Jacob van Ruisdael</dc:contributor>
 		<meta property="file-as" refines="#artist">Ruisdael, Jacob van</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Jacob Isaackszoon van Ruisdael</meta>
