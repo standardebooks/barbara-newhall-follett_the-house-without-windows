@@ -35,7 +35,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<meta property="file-as" refines="#subtitle">And Eepersip’s Life There</meta>
 		<dc:title id="fulltitle">The House Without Windows: And Eepersip’s Life There</dc:title>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<meta property="file-as" refines="#fulltitle">House Without Windows, The</meta>
 		<dc:subject id="subject-1">Fiction</dc:subject>
 		<dc:subject id="subject-2">Children's literature</dc:subject>
