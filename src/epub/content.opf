@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/barbara-newhall-follett/the-house-without-windows</dc:identifier>
 		<dc:date>2024-04-13T16:41:51Z</dc:date>
@@ -44,12 +44,12 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85001077</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young woman seeks a new home where she is not trapped by walls or windows.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young woman seeks a new home where she is not trapped by walls or windows.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;A young girl named Eepersip lives with her parents in a cottage, but she feels trapped within its confines, so she leaves home to live a freer life in the wild.&lt;/p&gt;
 			&lt;p&gt;After leaving her parents’ home, she establishes a life for herself outdoors, rejecting both the society of adults and the comforts of civilization. Initially, she is happy to live in a meadow near her family’s home, but over time she is tempted to seek out new natural environments to live in. Meanwhile, her parents attempt to locate their daughter and to bring her back home.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/barbara-newhall-follett"&gt;Follett&lt;/a&gt; started writing the novel in 1923 at the age of 8, but the first draft was lost in a house fire, which led her to rewrite the entire work. It was eventually published to critical success in 1927, when she was just 12 years old.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/The_House_Without_Windows</dc:source>
 		<dc:source>https://archive.org/details/the-house-without-windows-djvu</dc:source>
